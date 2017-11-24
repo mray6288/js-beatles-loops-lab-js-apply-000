@@ -4,7 +4,7 @@ function theBeatlesPlay(musicians, instruments){
     sentences.push(`${musicians[i]} plays ${instruments[i]}`)
     // console.log(`${musicians[i]} plays ${instruments[i]}`)
   }
-  console.log(sentences)
+  // console.log(sentences)
   return sentences
 }
 
